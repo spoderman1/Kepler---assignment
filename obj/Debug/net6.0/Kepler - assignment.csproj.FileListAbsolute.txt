@@ -1,0 +1,27 @@
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\Kepler - assignment.exe
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\Kepler - assignment.deps.json
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\Kepler - assignment.runtimeconfig.json
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\Kepler - assignment.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\Kepler - assignment.pdb
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\PdfSharp.Charting.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\PdfSharp.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\de\PdfSharp.resources.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\Kepler - assignment.csproj.AssemblyReference.cache
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\Kepler - assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\Kepler - assignment.AssemblyInfoInputs.cache
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\Kepler - assignment.AssemblyInfo.cs
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\Kepler - assignment.csproj.CoreCompileInputs.cache
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\Kepler - assignment.csproj.CopyComplete
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\Kepler - assignment.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\refint\Kepler - assignment.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\Kepler - assignment.pdb
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\Kepler - assignment.genruntimeconfig.cache
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\obj\Debug\net6.0\ref\Kepler - assignment.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\thuss\OneDrive\Documents\GitHub\Kepler - assignment\Kepler - assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
